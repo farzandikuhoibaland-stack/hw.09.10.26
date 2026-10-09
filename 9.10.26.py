@@ -104,6 +104,8 @@
 # grades.reverse()
 # print(grades)
 
+# home work
+
 
 # 16. 
 # shopping = ["bread", "milk", "eggs", "cheese"]
